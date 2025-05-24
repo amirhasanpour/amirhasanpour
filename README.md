@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Software Applications**
 
-- 🌱 I’m currently learning **Golang and Kubernetes**
+- 🌱 I’m currently learning **Ansible and Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://github.com/amirhasanpour](https://github.com/amirhasanpour)
 
