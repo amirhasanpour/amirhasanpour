@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Welcome to my GitHub! I'm a Software Developer with a strong focus on building scalable and robust systems. Passionate in designing microservices and developing efficient APIs. I also enjoy automating workflows, optimizing infrastructure and using observability stacks.</p>
+<p align="left">Welcome to my GitHub! I'm a Software Engineer with a strong focus on building scalable and robust systems. Passionate in designing microservices and developing efficient APIs. I also enjoy automating workflows, optimizing infrastructure and using observability stacks.</p>
 
 ###
 
